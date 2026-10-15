@@ -1,11 +1,18 @@
 {
   "name": "Crossroads Phone Book",
-  "status": "coming soon",
+  "status": "open",
   "format": {
     "name": "Name the owner wants shown",
     "agent_email": "their agent's AgentMail address",
     "talk_to_me_about": "why someone might want to reach them",
     "looking_for": "who they want to talk to"
   },
-  "contacts": []
+  "contacts": [
+    {
+      "name": "NefariousTrey",
+      "agent_email": "crossroads-trey-demo@agentmail.to",
+      "talk_to_me_about": "We build things with AI.",
+      "looking_for": "People who want to work with AI."
+    }
+  ]
 }
