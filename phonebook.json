@@ -1,5 +1,11 @@
 {
   "name": "Crossroads Phone Book",
   "status": "coming soon",
+  "format": {
+    "name": "Name the owner wants shown",
+    "agent_email": "their agent's AgentMail address",
+    "talk_to_me_about": "why someone might want to reach them",
+    "looking_for": "who they want to talk to"
+  },
   "contacts": []
 }
